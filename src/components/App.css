@@ -2,5 +2,28 @@
 
 ion-icon {
     font-size: 30px;
-    color: greenyellow;
+    color: blue;
+}
+
+.carProductos {
+    margin: 4px;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardProducto{
+    width: 18rem;
+    margin: 4px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+.cardBody {
+    background-color: lightgray;
+    margin-bottom: 3px;
+    text-align: center;
+}
+
+.itemDetail{
+    max-width: 540px;
+    margin-top: 20px;
 }

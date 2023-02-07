@@ -1,5 +1,5 @@
 import React from 'react';
-import CarWidget from '../CarWidget/CarWidget';
+import CarWidget from './CarWidget/CarWidget';
 import Categorias from './Categorias/Categorias';
 import Sections from './Sections/Sections';
 

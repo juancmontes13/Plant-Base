@@ -1,0 +1,162 @@
+[
+      {
+      "id": 1,
+      "Nombre": "Cactus",
+      "idCategoria":1,
+      "Categoria": "Sol",
+      "Precio": 30000,
+      "Imagen": "cactus.jpg",
+      "Stock":20,
+      "Descripcion": "Los cactus son plantas pertenecientes a la familia Cactaceae, originaria de América, caracterizada por presentar modificaciones en sus estructuras vegetativas como areolas, tallos suculentos y hojas reducidas a espinas, en la mayoría de las especies."
+    },
+    {
+      "id": 2,
+      "Nombre": "Heliconea",
+      "idCategoria":1,
+      "Categoria": "Sol",
+      "Precio": 40000,
+      "Imagen": "heliconea.jpg",
+      "Stock":25,
+      "Descripcion": "Las Heliconias son plantas monocotiledóneas, con un crecimiento rizomatoso que emite brotes o vástagos. El rizoma es una estructura de tallo especializada, en la cual el eje principal de la planta crece horizontalmente, justo abajo de la superficie del suelo."
+    },
+    {
+      "id": 3,
+      "Nombre": "Dólar",
+      "idCategoria":2,
+      "Categoria": "Sombra",
+      "Precio": 50000,
+      "Imagen": "dolar.jpg",
+      "Stock":23,
+      "Descripcion": "La Aglaonema Commutatum es una planta para interior para un lugar iluminado con luz natural o sombra, sin corrientes de aire ni sol directo, el riego se hace cada 3 o 4 días evitando encharcamiento, abonar mensualmente con fertilizantes para follaje."
+    },
+    {
+      "id": 4,
+      "Nombre": "Dólar Rosado ",
+      "idCategoria":2,
+      "Categoria": "Sombra",
+      "Precio": 50000,
+      "Imagen": "dolarrosado.jpg",
+      "Stock":20,
+      "Descripcion": "La Aglaonema Commutatum es una planta para interior para un lugar iluminado con luz natural o sombra, sin corrientes de aire ni sol directo, el riego se hace cada 3 o 4 días evitando encharcamiento, abonar mensualmente con fertilizantes para follaje."
+    },
+    {
+      "id": 5,
+      "Nombre": "Palma Areca",
+      "idCategoria":1,
+      "Categoria": "Sol",
+      "Precio": 60000,
+      "Imagen": "palmaareca.jpg",
+      "Stock":10,
+      "Descripcion": "Es una palmera de pequeño a mediano tamaño que puede superar varios metros de altura, con ramificaciones desde la base. Regularmente mide de 1.5m a 3m de alto, pero puede llegar a medir hasta 6m dependiendo de las ramificaciones que tenga."
+    },
+    {
+      "id": 6,
+      "Nombre": "Zeta",
+      "idCategoria":2,
+      "Categoria": "Sombra",
+      "Precio": 45000,
+      "Imagen": "zeta.jpg",
+      "Stock":20,
+      "Descripcion": "Descripción. Es una planta herbácea que alcanza los 45-60 cm de altura, con rizoma suculento subterráneo. Es una planta perenne pero puede ser caduca en periodos de sequía, en los que sobrevive gracias a su gran tubérculo como rizoma que almacena agua hasta que lleguen las precipitaciones"
+    },
+    {
+      "id": 7,
+      "Nombre": "Hoja Rota",
+      "idCategoria":2,
+      "Categoria": "Sombra",
+      "Precio": 45000,
+      "Imagen": "hojarota.jpg",
+      "Stock":29,
+      "Descripcion": "Esta especie llamada Monstera adansonii también conocida como “Hoja rota” es una especie trepadora endémica de selvas tropicales de Centro América y Sur América, hace parte de la familia Araceae, se caracteriza por tener agujeros en sus hojas desde que nacen, esto con el fin de que la luz del sol alcance a llegar a"
+    },
+    {
+      "id": 8,
+      "Nombre": "Monstera",
+      "idCategoria":2,
+      "Categoria": "Sombra",
+      "Precio": 45000,
+      "Imagen": "mostera.jpg",
+      "Stock":20,
+      "Descripcion": "Planta de tallo grueso que alcanza 20 m de largo; Las hojas con muchos agujeros, grandes, correosas, brillantes, cordadas, de 20 a 90 cm de largo y de 20 a 80 cm de ancho. En plantas nuevas son pequeñas, enteras,sin lóbulos ni agujeros"
+    },
+    {
+      "id": 9,
+      "Nombre": "Sabila",
+      "idCategoria":1,
+      "Categoria": "Sol",
+      "Precio": 20000,
+      "Imagen": "savila.jpg",
+      "Stock":20,
+      "Descripcion": "Es una planta de hoja perenne, probablemente se originó en la Península Arábica, pero crece de forma silvestre en climas tropicales, semitropicales y áridos de todo el mundo. Se cultiva para productos comerciales, principalmente como tratamiento tópico utilizado durante siglos. La especie es atractiva con fines decorativos y tiene éxito en interiores como planta de maceta​"
+    },
+    {
+      "id": 10,
+      "Nombre": "Miami",
+      "idCategoria":2,
+      "Categoria": "Sombra",
+      "Precio": 15000,
+      "Imagen": "miami.jpg",
+      "Stock":30,
+      "Descripcion": "Esta planta Epipremnum Aureum también conocidoa como Miami o Potus aunque ya no se clasifica dentro de ese género hace parte de la familia Araceae, es una planta purificadora de aire llamativa y muy resistente, crece rápidamente y se propaga a través de esquejes, puede llegar a medir un metro de largo."
+    },
+    {
+      "id": 11,
+      "Nombre": "Lengua de Suegra",
+      "idCategoria":2,
+      "Categoria": "Sombra",
+      "Precio": 25000,
+      "Imagen": "lenguadesuegra.jpg",
+      "Stock":20,
+      "Descripcion": "Dracaena (Sansevieria) es un género de herbáceas, perennes y rizomatosas de la familia Asparagaceae, anteriormente en Ruscaceae. Ahora se la ha incluido en el género Dracaena debido a los estudios moleculares de su filogenia Tradicionalmente este género ha sido incluido dentro de una definición amplia de la familia Liliaceae."
+    },
+    {
+      "id": 12,
+      "Nombre": "Suculenta",
+      "idCategoria":1,
+      "Categoria": "Sol",
+      "Precio": 15000,
+      "Imagen": "suculenta.jpg",
+      "Stock":20,
+      "Descripcion": "Las plantas suculentas del latín succulentus, que significa: jugoso o sustancioso o crasas son aquellas en las que algún órgano está especializado en el almacenamiento de agua en cantidades mayores que las plantas sin esta adaptación. Estos órganos de reserva tienen una alta proporción de tejido parenquimático."
+    },
+    {
+      "id": 13,
+      "Nombre": "Matera Blanca",
+      "idCategoria":3,
+      "Categoria": "Accesorios",
+      "Precio": 55000,
+      "Imagen": "materablanca.jpg",
+      "Stock":20,
+      "Descripcion": "Maceta blanca tamaño mediano para todo tipo de plantas."
+    },
+    {
+      "id": 14,
+      "Nombre": "Matera Pequeña",
+      "idCategoria":3,
+      "Categoria": "Accesorios",
+      "Precio": 20000,
+      "Imagen": "materapequena.jpg",
+      "Stock":20,
+      "Descripcion": "Maceta pequeña de barro muy utlizada para sembrar cactus y . "
+    },
+    {
+      "id": 15,
+      "Nombre": "Matera Pared",
+      "idCategoria":3,
+      "Categoria": "Accesorios",
+      "Precio": 28000,
+      "Imagen": "materapared.jpg",
+      "Stock":20,
+      "Descripcion": "Maceta de barro para pared muy utilizada para sembrar plantas de flor."
+    },
+    {
+      "id": 16,
+      "Nombre": "Matera Eco",
+      "idCategoria":3,
+      "Categoria": "Accesorios",
+      "Precio": 5000,
+      "Imagen": "materaeco.jpg",
+      "Stock":20,
+      "Descripcion": "Para los mas ecologicos presentamos nuestra nueva maceta biodegradable."
+    }
+  ]

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Categorias = () => {
     return (
@@ -8,9 +9,9 @@ const Categorias = () => {
                     <button className='btn btn-dark'>Categorias</button>
                     </a>
                     <ul className="dropdown-menu">
-                      <li><a className="dropdown-item" href="#">Plantas de Sol</a></li>
-                      <li><a className="dropdown-item" href="#">Plantas de Sombra</a></li>
-                      <li><a className="dropdown-item" href="#">Materas</a></li>
+                      <li><Link className='dropdown-item' to={"/category/1"}>Plantas de Sol</Link></li>
+                      <li><Link className='dropdown-item' to={"/category/2"}>Plantas de Sombra</Link></li>
+                      <li><Link className='dropdown-item' to={"/category/3"}>Accesorios</Link></li>
                     </ul>
             </li>
 
