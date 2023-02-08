@@ -15,9 +15,8 @@ const App = () => {
           <Route path='/' element={<ItemListContainer/>}/> 
           <Route path='/item/:id' element={<ItemDetailContainer/>}/>
           <Route path='/category/:idCategoria' element={<ItemListContainer/>}/>
-          
-        </Routes>
-        
+
+        </Routes>      
       </BrowserRouter>
       
     </div>
