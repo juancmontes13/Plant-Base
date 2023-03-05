@@ -2,13 +2,14 @@ import React from 'react';
 import CarWidget from './CarWidget/CarWidget';
 import Categorias from './Categorias/Categorias';
 import Sections from './Sections/Sections';
+import BotonDarkMode from './BotonDarkMode/BotonDarkMode';
 
 const NavBar = () => {
     return (
         <div>
              <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
             <div className="container-fluid">
-             <a href="#">Plant Base</a>
+             <a href="/">Plant Base</a>
               <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon" />
               </button>
@@ -18,7 +19,8 @@ const NavBar = () => {
                  <Categorias/>                             
                 </ul>               
               </div>
-              <CarWidget canCarrito={5}/>
+              <CarWidget/>
+              <BotonDarkMode/>
             </div>
           </nav>
         </div>

@@ -5,7 +5,7 @@
       "idCategoria":1,
       "Categoria": "Sol",
       "Precio": 30000,
-      "Imagen": "cactus.jpg",
+      "Imagen": "https://firebasestorage.googleapis.com/v0/b/plant-base-2022.appspot.com/o/cactus.jpg?alt=media&token=f24d74d6-e548-4f47-9cb7-8701b059e70c",
       "Stock":20,
       "Descripcion": "Los cactus son plantas pertenecientes a la familia Cactaceae, originaria de América, caracterizada por presentar modificaciones en sus estructuras vegetativas como areolas, tallos suculentos y hojas reducidas a espinas, en la mayoría de las especies."
     },
@@ -15,7 +15,7 @@
       "idCategoria":1,
       "Categoria": "Sol",
       "Precio": 40000,
-      "Imagen": "heliconea.jpg",
+      "Imagen": "https://firebasestorage.googleapis.com/v0/b/plant-base-2022.appspot.com/o/heliconea.jpg?alt=media&token=7879b90b-28eb-4c6c-9b34-926cf72666bd",
       "Stock":25,
       "Descripcion": "Las Heliconias son plantas monocotiledóneas, con un crecimiento rizomatoso que emite brotes o vástagos. El rizoma es una estructura de tallo especializada, en la cual el eje principal de la planta crece horizontalmente, justo abajo de la superficie del suelo."
     },
@@ -25,7 +25,7 @@
       "idCategoria":2,
       "Categoria": "Sombra",
       "Precio": 50000,
-      "Imagen": "dolar.jpg",
+      "Imagen": "https://firebasestorage.googleapis.com/v0/b/plant-base-2022.appspot.com/o/dolar.jpg?alt=media&token=8b646a6a-653f-4459-954f-7ca14219ece6",
       "Stock":23,
       "Descripcion": "La Aglaonema Commutatum es una planta para interior para un lugar iluminado con luz natural o sombra, sin corrientes de aire ni sol directo, el riego se hace cada 3 o 4 días evitando encharcamiento, abonar mensualmente con fertilizantes para follaje."
     },
@@ -35,7 +35,7 @@
       "idCategoria":2,
       "Categoria": "Sombra",
       "Precio": 50000,
-      "Imagen": "dolarrosado.jpg",
+      "Imagen": "https://firebasestorage.googleapis.com/v0/b/plant-base-2022.appspot.com/o/dolarrosado.jpg?alt=media&token=fb667e48-05cc-4318-895b-b93490032f3a",
       "Stock":20,
       "Descripcion": "La Aglaonema Commutatum es una planta para interior para un lugar iluminado con luz natural o sombra, sin corrientes de aire ni sol directo, el riego se hace cada 3 o 4 días evitando encharcamiento, abonar mensualmente con fertilizantes para follaje."
     },
@@ -45,7 +45,7 @@
       "idCategoria":1,
       "Categoria": "Sol",
       "Precio": 60000,
-      "Imagen": "palmaareca.jpg",
+      "Imagen": "https://firebasestorage.googleapis.com/v0/b/plant-base-2022.appspot.com/o/palmaareca.jpg?alt=media&token=c5e54249-e0e2-438d-bf60-bc9c0e55b666",
       "Stock":10,
       "Descripcion": "Es una palmera de pequeño a mediano tamaño que puede superar varios metros de altura, con ramificaciones desde la base. Regularmente mide de 1.5m a 3m de alto, pero puede llegar a medir hasta 6m dependiendo de las ramificaciones que tenga."
     },
@@ -55,7 +55,7 @@
       "idCategoria":2,
       "Categoria": "Sombra",
       "Precio": 45000,
-      "Imagen": "zeta.jpg",
+      "Imagen": "https://firebasestorage.googleapis.com/v0/b/plant-base-2022.appspot.com/o/zeta.jpg?alt=media&token=3ee89828-dd3f-493b-b633-5cc586dff96c",
       "Stock":20,
       "Descripcion": "Descripción. Es una planta herbácea que alcanza los 45-60 cm de altura, con rizoma suculento subterráneo. Es una planta perenne pero puede ser caduca en periodos de sequía, en los que sobrevive gracias a su gran tubérculo como rizoma que almacena agua hasta que lleguen las precipitaciones"
     },
@@ -65,7 +65,7 @@
       "idCategoria":2,
       "Categoria": "Sombra",
       "Precio": 45000,
-      "Imagen": "hojarota.jpg",
+      "Imagen": "https://firebasestorage.googleapis.com/v0/b/plant-base-2022.appspot.com/o/hojarota.jpg?alt=media&token=d874ca12-4d5d-4916-aff6-ba08841e6b59",
       "Stock":29,
       "Descripcion": "Esta especie llamada Monstera adansonii también conocida como “Hoja rota” es una especie trepadora endémica de selvas tropicales de Centro América y Sur América, hace parte de la familia Araceae, se caracteriza por tener agujeros en sus hojas desde que nacen, esto con el fin de que la luz del sol alcance a llegar a"
     },
@@ -75,7 +75,7 @@
       "idCategoria":2,
       "Categoria": "Sombra",
       "Precio": 45000,
-      "Imagen": "mostera.jpg",
+      "Imagen": "https://firebasestorage.googleapis.com/v0/b/plant-base-2022.appspot.com/o/mostera.jpg?alt=media&token=9345b01a-73f5-4b13-a489-d0c56229f933",
       "Stock":20,
       "Descripcion": "Planta de tallo grueso que alcanza 20 m de largo; Las hojas con muchos agujeros, grandes, correosas, brillantes, cordadas, de 20 a 90 cm de largo y de 20 a 80 cm de ancho. En plantas nuevas son pequeñas, enteras,sin lóbulos ni agujeros"
     },
@@ -85,7 +85,7 @@
       "idCategoria":1,
       "Categoria": "Sol",
       "Precio": 20000,
-      "Imagen": "savila.jpg",
+      "Imagen": "https://firebasestorage.googleapis.com/v0/b/plant-base-2022.appspot.com/o/savila.jpg?alt=media&token=83c6f411-0887-4fae-8428-77ff99151676",
       "Stock":20,
       "Descripcion": "Es una planta de hoja perenne, probablemente se originó en la Península Arábica, pero crece de forma silvestre en climas tropicales, semitropicales y áridos de todo el mundo. Se cultiva para productos comerciales, principalmente como tratamiento tópico utilizado durante siglos. La especie es atractiva con fines decorativos y tiene éxito en interiores como planta de maceta​"
     },
@@ -95,7 +95,7 @@
       "idCategoria":2,
       "Categoria": "Sombra",
       "Precio": 15000,
-      "Imagen": "miami.jpg",
+      "Imagen": "https://firebasestorage.googleapis.com/v0/b/plant-base-2022.appspot.com/o/miami.jpg?alt=media&token=15c11ab8-0206-4d01-980b-10ebd8397b52",
       "Stock":30,
       "Descripcion": "Esta planta Epipremnum Aureum también conocidoa como Miami o Potus aunque ya no se clasifica dentro de ese género hace parte de la familia Araceae, es una planta purificadora de aire llamativa y muy resistente, crece rápidamente y se propaga a través de esquejes, puede llegar a medir un metro de largo."
     },
@@ -105,7 +105,7 @@
       "idCategoria":2,
       "Categoria": "Sombra",
       "Precio": 25000,
-      "Imagen": "lenguadesuegra.jpg",
+      "Imagen": "https://firebasestorage.googleapis.com/v0/b/plant-base-2022.appspot.com/o/lenguadesuegra.jpg?alt=media&token=753a6070-dfb6-4d6e-94e9-ab73b0bc44a1",
       "Stock":20,
       "Descripcion": "Dracaena (Sansevieria) es un género de herbáceas, perennes y rizomatosas de la familia Asparagaceae, anteriormente en Ruscaceae. Ahora se la ha incluido en el género Dracaena debido a los estudios moleculares de su filogenia Tradicionalmente este género ha sido incluido dentro de una definición amplia de la familia Liliaceae."
     },
@@ -115,7 +115,7 @@
       "idCategoria":1,
       "Categoria": "Sol",
       "Precio": 15000,
-      "Imagen": "suculenta.jpg",
+      "Imagen": "https://firebasestorage.googleapis.com/v0/b/plant-base-2022.appspot.com/o/suculenta.jpg?alt=media&token=f3dac4ce-eace-4b45-bd9f-09ebd87e0c0f",
       "Stock":20,
       "Descripcion": "Las plantas suculentas del latín succulentus, que significa: jugoso o sustancioso o crasas son aquellas en las que algún órgano está especializado en el almacenamiento de agua en cantidades mayores que las plantas sin esta adaptación. Estos órganos de reserva tienen una alta proporción de tejido parenquimático."
     },
@@ -125,7 +125,7 @@
       "idCategoria":3,
       "Categoria": "Accesorios",
       "Precio": 55000,
-      "Imagen": "materablanca.jpg",
+      "Imagen": "https://firebasestorage.googleapis.com/v0/b/plant-base-2022.appspot.com/o/materablanca.jpg?alt=media&token=55938bb4-408a-4e91-8843-fff285354697",
       "Stock":20,
       "Descripcion": "Maceta blanca tamaño mediano para todo tipo de plantas."
     },
@@ -135,7 +135,7 @@
       "idCategoria":3,
       "Categoria": "Accesorios",
       "Precio": 20000,
-      "Imagen": "materapequena.jpg",
+      "Imagen": "https://firebasestorage.googleapis.com/v0/b/plant-base-2022.appspot.com/o/materapequena.jpg?alt=media&token=651f8f35-b346-4dab-a366-4d443a80ac44",
       "Stock":20,
       "Descripcion": "Maceta pequeña de barro muy utlizada para sembrar cactus y . "
     },
@@ -145,7 +145,7 @@
       "idCategoria":3,
       "Categoria": "Accesorios",
       "Precio": 28000,
-      "Imagen": "materapared.jpg",
+      "Imagen": "https://firebasestorage.googleapis.com/v0/b/plant-base-2022.appspot.com/o/materapared.jpg?alt=media&token=e883a6b5-9ec9-48a4-9bef-273c9b9a457a",
       "Stock":20,
       "Descripcion": "Maceta de barro para pared muy utilizada para sembrar plantas de flor."
     },
@@ -155,7 +155,7 @@
       "idCategoria":3,
       "Categoria": "Accesorios",
       "Precio": 5000,
-      "Imagen": "materaeco.jpg",
+      "Imagen": "https://firebasestorage.googleapis.com/v0/b/plant-base-2022.appspot.com/o/materaeco.jpg?alt=media&token=8987cce1-47e6-4b18-9a98-66d075ee86c7",
       "Stock":20,
       "Descripcion": "Para los mas ecologicos presentamos nuestra nueva maceta biodegradable."
     }

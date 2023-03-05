@@ -1,10 +1,16 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+import { useCarritoContext } from '../../../context/CarritoContext';
 
-const CarWidget = ({canCarrito}) => {
+const CarWidget = () => {
+    const{getItemQuantity} = useCarritoContext()
     return (
+
         <>
-            <button className='btn btn-dark'><ion-icon name="cart-outline"></ion-icon></button>
-            <p>{canCarrito}</p>
+            <Link className='nav-link' to={'/cart'}>
+                <button className='btn btn-dark'><ion-icon name="cart-outline"></ion-icon></button>
+                {getItemQuantity() > 0 && <span className='canCarrito'>{getItemQuantity()}</span>}
+            </Link>
         </>
     );
 }

@@ -1,11 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const Categorias = () => {
+
+const Categorias = React.memo( () => {
     return (
     
             <li className="nav-item dropdown">
-                    <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a className="nav-link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     <button className='btn btn-dark'>Categorias</button>
                     </a>
                     <ul className="dropdown-menu">
@@ -16,6 +17,6 @@ const Categorias = () => {
             </li>
 
     );
-}
+})
 
 export default Categorias;
